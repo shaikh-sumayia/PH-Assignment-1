@@ -29,7 +29,7 @@ header{
     padding: 30px 30px 0px 150px;
     display: flex;
     align-items: center;
-    justify-content: space-between;
+    justify-content: space-evenly;
 }
 
 .banner-content{
@@ -112,6 +112,63 @@ header{
     margin-right: 20px;
     padding: 10px;
 }
- 
 
+.offer{
+    display: flex;
+    padding: 30px 30px 0px 150px;
+    display: flex;
+    align-items: center;
+    justify-content:space-evenly;
+    background-color: #E554731A;
+    margin-top: 120px;
+}
+
+.offer-content{
+    max-width: 600px;
+    text-align: center;
+    padding: auto;
+    margin-right: 40px;
+}
+
+.offer .offer-image{
+    width: 300px;
+    margin-right: 100px;
+    padding: 50px;
     
+}
+
+.offer-title{
+    color: #272727;
+    font-size: 40px;
+    font-weight: 700;
+    margin-bottom: 20px;
+
+}
+
+.offer-description{
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 15px;
+    line-height: 25px;
+    margin-bottom: 20px;
+}
+
+#bold{
+    color: #E55473;
+}
+
+
+.ig-flower-container{
+    display: flex;
+    margin: 0px 240px;
+    padding: 10px;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.ig-flower-image{
+    width: 250px;
+    height: 270px;
+    margin-right: 20px;
+    padding: 5px;
+}
