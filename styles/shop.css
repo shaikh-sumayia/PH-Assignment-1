@@ -59,9 +59,9 @@ header{
 .section-title{
     color: #272727;
     text-align: center;
-    font-size: 40px;
+    font-size: 30px;
     font-weight: 800;
-    margin: 120px 500px;
+    margin: 120px 400px;
     margin-bottom: 20px;
     
 
@@ -116,7 +116,6 @@ header{
 .offer{
     display: flex;
     padding: 30px 30px 0px 150px;
-    display: flex;
     align-items: center;
     justify-content:space-evenly;
     background-color: #E554731A;
@@ -172,3 +171,62 @@ header{
     margin-right: 20px;
     padding: 5px;
 }
+
+.subscription{
+    background-image: url('../Images/Rectangle\ 9.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    justify-content: center;
+    margin: 100px 130px;
+    
+}
+
+.sub-content{
+    padding: 5px 0px 120px 0px;
+   
+}
+.entry{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+    
+}
+
+.mailbox{
+    border-radius: 8px;
+background: #FFF;
+width: 600px;
+height: 55px;
+margin-right: 20px;
+padding-left: 20px;
+border: none;
+
+}
+
+footer{
+    background-color: #111010;
+}
+
+.footer-content{
+    text-align: center;
+    color: #FFFFFF66;
+    padding: 80px 450px;
+}
+
+.footer-title{
+color:white;
+font-size: 40px;
+font-weight: 800;
+margin-bottom: 20px;
+}
+
+.footer-decsription{
+color: #FFFFFFE5;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+margin-bottom: 20px;
+}
+
