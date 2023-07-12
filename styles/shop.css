@@ -156,19 +156,3 @@ header{
     color: #E55473;
 }
 
-
-.ig-flower-container{
-    display: flex;
-    margin: 0px 240px;
-    padding: 10px;
-    text-align: center;
-    justify-content: center;
-
-}
-
-.ig-flower-image{
-    width: 250px;
-    height: 270px;
-    margin-right: 20px;
-    padding: 5px;
-}
